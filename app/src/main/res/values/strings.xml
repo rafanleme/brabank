@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Brabank</string>
+    <string name="nav_novo_lancamento">Novo Lançamento</string>
+    <string name="nav_lancamentos">Lançamentos</string>
+    <string name="open_drawer">Abrir</string>
+    <string name="close_drawer">Fechar</string>
+    <string name="nav_categorias">Categorias</string>
+    <string name="nav_informacoes">Informações</string>
+    <string name="nav_ajuda">Ajuda</string>
+    <string name="nav_sair">Sair</string>
+    <string name="btn_menu_salvar">Salvar</string>
+    <string name="btn_menu_ajuda">Ajuda</string>
+    <string name="titulo_infos_brabank">A Brabank</string>
+    <string name="titulo_info_valores">Valores</string>
+    <string name="titulo_info_visao">Visão</string>
+    <string name="titulo_info_missao">Missão</string>
+    <string name="txt_info_brabank">A Brabank é uma empresa startup brasileira no segmento de serviços financeiros digitais. Criada em 2019 por um grupo de alunos formandos do Senai Jandira já alcança um grande mercado e vem crescendo esponencialmente sua carteira de clientes a cada dia.</string>
+    <string name="txt_info_valores">It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="txt_info_visao">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</string>
+    <string name="txt_info_missao">t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using \'Content here, content here\', making it look like readable English.</string>
+</resources>
